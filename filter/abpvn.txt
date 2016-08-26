@@ -1407,3 +1407,4 @@ olug.vn###popup_center
 ##.ads.col-md-3
 ###sidebar_qc
 ||www.fshare.vn/*.png
+##.nevicom.homepage >*> *.nevicom.mainpage > .columnRight >*
