@@ -1394,3 +1394,4 @@ www.hayhaytv.vn##.mh-popup-in.pp-medium500.box-support
 @@||upfile.vn$elemhide
 www.ohay.tv#@#.adsbygoogle
 !-----------Phần dành cho cộng tác viên----------------
+###sidebar_qc
