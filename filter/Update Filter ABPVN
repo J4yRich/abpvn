@@ -1,14 +1,10 @@
+###main_content_t >* .ads-uptruyen-com
 ||ahaclip.com/*.gif
-www.fshare.vn/*.png$domain=thuviensoft.net
-! 22:53:22, 24/8/2016 http://thuviensoft.net/
-googleusercontent.com/-*/*/*/*/s0/*.*jpg
-mmo4me.com###content > .pageWidth > .pageContent > aside > .sidebar > .widget-container.widget-group-no-name.sectionMain.section:nth-of-type(3)
-4share.vn###main_content_t > center > table > tbody > tr > td:nth-of-type(3) > div >*
-4share.vn###main_content_t > center > table > tbody > tr > td:nth-of-type(3)
-||4share.vn/images/son%20thao%20hoan.png
+||4share.vn/images/son%20thao%20hoan.png$image
+||googleusercontent.com/-*/*/*/s0/*.jpg
+||*.mmo4me.com/*.php?di=*
+###widget-12
 www.hosocongty.vn###popup_center
-www.hosocongty.vn##.nevicom.homepage >*>.nevicom.mainpage>*.columnRight
 olug.vn###popup_center
-forum.bkav.com.vn###widget_left
-forum.bkav.com.vn###slider1_container
-forum.bkav.com.vn###widget_131
+###widget_left
+###widget_131
